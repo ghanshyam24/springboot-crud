@@ -1,6 +1,6 @@
 ## spring boot crud
 
-A simple Spring Boot CRUD application for managing users with DTOs, MapStruct, MySQL
+A simple Spring Boot CRUD application for managing users with DTOs, Lombok, MapStruct, MySQL
 
 # Concept
 
