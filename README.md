@@ -1,8 +1,8 @@
-## Spring boot crud
+# Spring boot crud
 
 A simple Spring Boot CRUD application for managing users with DTOs, Lombok, MapStruct, MySQL
 
-# Concept
+## Concept
 
 Spring boot :- 
     Rest Api,
@@ -16,7 +16,7 @@ database :-
    mysql
 
 
-# Curl's
+## Curl's
 
 curl -X POST "http://localhost:8080/user" -H "Content-Type: application/json" -d "{\"username\":\"Ram\",\"fatherName\":\"Ghanshyam",\"motherName\":\"Jane\",\"password\":\"secret123\"}"
 
