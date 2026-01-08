@@ -9,8 +9,8 @@ Spring boot :-
     Jpa,
     Global exception handling,
     Lombok,
-    mapstruct,
-    validation
+    Mapstruct,
+    Validation
 
 database :-
    mysql
