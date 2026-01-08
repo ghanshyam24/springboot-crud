@@ -26,7 +26,6 @@ public class UserService {
     }
 
     public UserDto save(UserDto userDto) {
-        userDto.setId(UUID.randomUUID());
         User savedUser = userRepository.save(userMapper.toEntity(userDto));
         return userMapper.toDto(savedUser);
     }
