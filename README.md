@@ -5,11 +5,11 @@ A simple Spring Boot CRUD application for managing users with DTOs, Lombok, MapS
 # Concept
 
 Spring boot :- 
-    Rest Api
-    jpa
-    Global exception handling
-    Lombok
-    mapstruct
+    Rest Api,
+    jpa,
+    Global exception handling,
+    Lombok,
+    mapstruct,
     validation
 
 database :-
